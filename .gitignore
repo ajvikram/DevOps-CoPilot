@@ -1,0 +1,6 @@
+feedback.txt
+dist
+node_modules
+.vscode-test.mjs
+.vscode
+.vscodeignore
