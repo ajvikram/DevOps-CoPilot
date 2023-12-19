@@ -3,7 +3,7 @@
 A visual Studio Code IDE Extension for developers and ops, which can help to generate code, find problems/vulnerabilities, generate summary, create documentation, git code review before committing changes etc. 
 It can use OpenAI api, Azure OpenAI api and local hosted opensource apis for llms like Llama2, mistral etc.
 You can try using importing vsix file as extension. It is based on other open source VS Code Extesnion code, please use on your own risk. It is very experimanetal and motivation is to just share code and show as proof of concept.
-You can use thise code and enhance.
+You can use this code and enhance based on your needs.
 
 ## Features
 
